@@ -11,6 +11,7 @@ To use this script you just need to copy and paste this to your project, include
 need to use Elastic Collision and call momentum_angle_free1 method. 
 
 momentum_angle_free1 method takes to inputs: ColliderObject which is a struct that needed 3 arguments. First one is velocity of
-object before collision, second one is the mass of the object and the third one is position of the object. 
+object before collision, second one is the mass of the object and the third one is position of the object. And this method returns
+CollisionVectors struct which have velocities of two object after collision.
 
 To understand how this script works, I strongly advise you to go to the repo original repo.
