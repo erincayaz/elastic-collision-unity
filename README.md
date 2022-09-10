@@ -14,4 +14,4 @@ momentum_angle_free1 method takes to inputs: ColliderObject which is a struct th
 object before collision, second one is the mass of the object and the third one is position of the object. And this method returns
 CollisionVectors struct which have velocities of two object after collision.
 
-To understand how this script works, I strongly advise you to go to the repo original repo.
+To understand how this script works, I strongly advise you to go to the original repo.
